@@ -5,3 +5,7 @@
 ```ts
 export const isNull = (str: string): boolean => str === undefined || str === null;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
